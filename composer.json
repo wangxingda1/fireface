@@ -3,7 +3,7 @@
     "description": "fire-face",
     "autoload": {
         "psr-4": {
-            "lianok": "src/"
+            "lianok\\": "src/"
         }
     },
     "authors": [
