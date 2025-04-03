@@ -1,0 +1,16 @@
+{
+    "name": "wxd/fire-face",
+    "description": "fire-face",
+    "autoload": {
+        "psr-4": {
+            "lianok": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "深藏功与名",
+            "email": "1547649964@qq.com"
+        }
+    ],
+    "require": {}
+}

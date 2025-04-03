@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace lianok\core;
+namespace lianok;
 
 use lianok\core\client\UploadClient;
 use lianok\core\config\UploadConfig;
